@@ -519,3 +519,4 @@ http-client.private.env.json
 
 #Elimina este archivo de configuracion
 appsettings.json
+.venv
